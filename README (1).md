@@ -161,7 +161,7 @@ The image appears to contain a dog playing with a ball in the grass.
 
 ## 👩‍💻 Author
 
-**Sravya Reddy Thumma**
+**divya D**
 
 B.Tech Student
 
